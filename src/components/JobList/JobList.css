@@ -1,0 +1,103 @@
+.jobType {
+  color: #ffffff;
+}
+.comImg {
+  height: 65px;
+  width: 65px;
+}
+.companyset {
+  background-color: #202020;
+  width: 60vw;
+  height: 350px;
+  margin: 18px;
+  padding: 17px;
+  border-radius: 6px;
+}
+.jobtitle {
+  color: #f8fafc;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.jobRating {
+  color: #f8fafc;
+  font-size: 16px;
+  font-family: Roboto;
+  margin: 4px;
+}
+.jobSet {
+  display: flex;
+  margin: 4px;
+  flex-direction: column;
+}
+.set345 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.jobSet {
+  margin: 7px;
+}
+.ratingset {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.star {
+  color: #fbbf24;
+}
+.location {
+  display: flex;
+  flex-direction: row;
+}
+.loc {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 14px;
+  margin: 6px;
+  margin-bottom: 0px;
+}
+.location {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.rate {
+  display: flex;
+  flex-direction: row;
+}
+.ratingset1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 8px;
+}
+.image123 {
+  color: #ffffff;
+  height: 20px;
+  width: 20px;
+}
+.loc1 {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 16px;
+  margin: 6px;
+  margin-bottom: 0px;
+}
+.paraJob {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 16px;
+}
+.jobDec {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 19px;
+}
+.link {
+  text-decoration: none;
+}
+.hr23 {
+  text-decoration: none;
+  color: #ffffff;
+}

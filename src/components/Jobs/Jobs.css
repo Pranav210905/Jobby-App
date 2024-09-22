@@ -1,0 +1,79 @@
+.main4 {
+  background-color: #000000;
+  height: 100%;
+  width: 100vw;
+}
+.main5 {
+  display: flex;
+  flex-direction: row;
+}
+.set5 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 180px;
+  width: 300px;
+  margin: 15px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.jobHead {
+  color: #6366f1;
+  font-family: Roboto;
+  font-size: 22px;
+}
+.jobPara {
+  color: #7e858e;
+  font-family: Roboto;
+  font-size: 16px;
+}
+.jobPara1 {
+  font-size: 16px;
+  font-family: Roboto;
+  color: #f1f5f9;
+}
+.hr {
+  width: 300px;
+}
+.jobUserImg {
+  height: 50px;
+  width: 50px;
+}
+.set6 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.searchbutton {
+  background-color: #272727;
+  color: #ffffff;
+  border: 0px;
+}
+.input12 {
+  background-color: #272727;
+  color: #f8fafc;
+  border: 0px;
+  width: 200px;
+  height: 19px;
+}
+ul {
+  list-style-type: none;
+}
+.failHead {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 24px;
+}
+.failureSet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failPara {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+}

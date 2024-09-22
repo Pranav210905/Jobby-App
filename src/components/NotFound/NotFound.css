@@ -1,0 +1,25 @@
+.main3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+}
+.notHead {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: Roboto;
+  text-align: center;
+}
+.notPara {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Roboto;
+  text-align: center;
+}
+.Notimg{
+  height: 400px;
+  width: 450px;
+}

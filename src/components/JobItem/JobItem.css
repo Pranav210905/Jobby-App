@@ -1,0 +1,10 @@
+.label {
+  color: #ffffff;
+  font-family: Roboto;
+  padding: 4px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
