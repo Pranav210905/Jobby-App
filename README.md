@@ -20,3 +20,4 @@ parameters to jobs API calls.
 ● Redirecting to the login page if the user tries to open Home, Jobs, Job
 item details routes which need authentication by implementing protected
 Route.
+
